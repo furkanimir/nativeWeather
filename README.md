@@ -2,7 +2,8 @@
 # Proje Başlığı
 
 React Navite ile uygulama geliştirmeye başlangıç için WeatherApp yaptım.
-Weather Api için 'openweathermap.org' sitesini, React Native için Expo ve React dökümantasyonlarını kullandım.
+React Native hem ios, hem android hem de web uygulamalır geliştirebileceğiniz açık kaynaklı bir JavaScript framework'üdür 
+
 
 
 ## Ekran Görüntüleri
@@ -10,3 +11,5 @@ Weather Api için 'openweathermap.org' sitesini, React Native için Expo ve Reac
 ![](assets/Screenshot_3.png)
 
   
+## Kaynaklar
+Weather Api için 'openweathermap.org' sitesini, React Native için Expo ve React dökümantasyonlarını kullandım.
