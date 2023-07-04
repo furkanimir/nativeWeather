@@ -2,7 +2,7 @@
 # Proje Başlığı
 
 React Navite ile uygulama geliştirmeye başlangıç için WeatherApp yaptım.
-React Native hem ios, hem android hem de web uygulamalır geliştirebileceğiniz açık kaynaklı bir JavaScript framework'üdür 
+React Native hem ios, hem android hem de web uygulamaları geliştirebileceğiniz açık kaynaklı bir JavaScript framework'üdür 
 
 
 
